@@ -1,0 +1,12 @@
+numpy==1.23.0
+scipy==1.8.1
+statsmodels==0.13.2
+pandas==1.4.3
+scikit-learn==1.1.1
+matplotlib==3.5.2
+
+jupyter
+notebook
+jupyterlab
+
+pyreadr==0.4.6
