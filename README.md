@@ -1,5 +1,5 @@
-# Implementing-Statistical-Modeling-with-Python
-Implementing Statistical Modeling with Python, Published by Packt
+# Building-Statistical-Models-in-Python
+Building Statistical Models in Python, Published by Packt
 
 ## Setup Instructions
 
