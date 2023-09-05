@@ -1,6 +1,69 @@
-# Building-Statistical-Models-in-Python
-Building Statistical Models in Python, Published by Packt
+# Building Statistical Models in Python	
 
+<a href="https://www.packtpub.com/product/building-statistical-models-in-python/9781804614280"><img src="https://content.packt.com/B18945/cover_image_small.png" alt="Building Statistical Models in Python" height="256px" align="right"></a>
+
+This is the code repository for [Building Statistical Models in Python](https://www.packtpub.com/product/building-statistical-models-in-python/9781804614280), published by Packt.
+
+**Develop useful models for regression, classification, time series, and survival analysis**
+
+## What is this book about?
+
+The ability to proficiently perform statistical modeling is a fundamental skill for data scientists and essential for businesses reliant on data insights. Building Statistical Models with Python is a comprehensive guide that will empower you to leverage mathematical and statistical principles in data assessment, understanding, and inference generation.
+
+
+This book covers the following exciting features: 
+* Explore the use of statistics to make decisions under uncertainty
+* Answer questions about data using hypothesis tests
+* Understand the difference between regression and classification models
+* Build models with stats models in Python
+* Analyze time series data and provide forecasts
+* Discover Survival Analysis and the problems it can solve
+
+If you feel this book is for you, get your [copy](https://www.amazon.in/Building-Statistical-Models-Python-classification-ebook/dp/B0C7GV7FNN/ref=monarch_sidesheet) today!
+
+<a href="https://www.packtpub.com/product/building-statistical-models-in-python/9781804614280"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
+
+## Instructions and Navigations
+All of the code is organized into folders.
+
+The code will look like the following:
+```
+A = [3,5,4]
+B = [43,41,56,78,54]
+permutation_testing(A,B,n_iter=10000)
+```
+**Following is what you need for this book:**
+If you are looking to get started with building statistical models for your data sets, this book is for you! Building Statistical Models in Python bridges the gap between statistical theory and practical application of Python. Since you’ll take a comprehensive journey through theory and application, no previous knowledge of statistics is required, but some experience with Python will be useful.
+
+With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
+
+### Software and Hardware List
+
+| Chapter  | Software required                                                                    | OS required                        |
+| -------- | -------------------------------------------------------------------------------------| -----------------------------------|
+|  	1-14	   |   	Python version ≥ 3.8                               			  | Any OS | 		
+|  	1-14	   |   	Statsmodels 0.13.2                               			  | Any OS | 		
+|  	1-14	   |   SciPy 1.8.1                              			  | Any OS | 		
+|  	1-14	   |   	lifelines 0.27.4                               			  | Any OS | 		
+|  	1-14	   |   	scikit-learn 1.1.1                               			  | Any OS | 		
+|  	1-14	   |   	pmdarima 2.02                               			  | Any OS | 		
+|  	1-14	   |   	Sktime 0.15.0                               			  | Any OS | 		
+|  	1-14	   |   	Pandas 1.4.3                               			  | Any OS | 		
+|  	1-14	   |   	Matplotlib 3.5.2                               			  | Any OS | 		
+|  	1-14	   |   	Numpy 1.23.0                               			  | Any OS | 		
+
+
+### Related products <Other books you may enjoy>
+* Hands-On Simulation Modeling with Python - Second Edition  [[Packt]](https://www.packtpub.com/product/hands-on-simulation-modeling-with-python-second-edition/9781804616888) [[Amazon]](https://www.amazon.in/Hands-Simulation-Modeling-Python-decision-making/dp/1804616885/ref=sr_1_4?keywords=Hands-On+Simulation+Modeling+with+Python&sr=8-4)
+  
+* Modern Time Series Forecasting with Python  [[Packt]](https://www.packtpub.com/product/modern-time-series-forecasting-with-python/9781803246802) [[Amazon]](https://www.amazon.in/Modern-Time-Forecasting-Python-industry-ready/dp/1803246804/ref=sr_1_1?keywords=Modern+Time+Series+Forecasting+with+Python&sr=8-1)
+  
+## Get to Know the Author(s)
+**Huy Hoang Nguyen** is a Mathematician and a Data Scientist with far-ranging experience, championing advanced mathematics and strategic leadership, and applied machine learning research. He holds a Master’s in Data Science and a PhD in Mathematics. His previous work was related to Partial Differential Equations, Functional Analysis and their applications in Fluid Mechanics. He transitioned from academia to the healthcare industry and has performed different Data Science projects from traditional Machine Learning to Deep Learning.
+
+**Paul Adams** is a Data Scientist with a background primarily in the healthcare industry, on both the provider and insurance sides of business. Paul applies statistics and machine learning in multiple areas of industry, focusing on projects in process engineering, process improvement, metrics and business rules development, anomaly detection, forecasting, clustering and classification. Paul holds a Master of Science in Data Science from Southern Methodist University.
+
+**Stuart Miller** is a Machine Learning Engineer with degrees in Data Science, Electrical Engineering, and Engineering Physics. Stuart has worked at several Fortune 500 companies, including Texas Instruments and StateFarm, where he built software that utilized statistical and machine learning techniques. Stuart is currently an engineer at Toyota Connected helping to build a more modern cockpit experience for drivers using machine learning
 ## Setup Instructions
 
 To install the packages required for this book,
