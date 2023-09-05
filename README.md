@@ -33,6 +33,7 @@ B = [43,41,56,78,54]
 permutation_testing(A,B,n_iter=10000)
 ```
 **Following is what you need for this book:**
+
 If you are looking to get started with building statistical models for your data sets, this book is for you! Building Statistical Models in Python bridges the gap between statistical theory and practical application of Python. Since you’ll take a comprehensive journey through theory and application, no previous knowledge of statistics is required, but some experience with Python will be useful.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
