@@ -1,3 +1,11 @@
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
+
 # Building Statistical Models in Python	
 
 <a href="https://www.packtpub.com/product/building-statistical-models-in-python/9781804614280"><img src="https://content.packt.com/B18945/cover_image_small.png" alt="Building Statistical Models in Python" height="256px" align="right"></a>
